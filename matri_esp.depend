@@ -1,0 +1,70 @@
+# depslib dependency file v1.0
+1498875627 source:c:\users\fabio\desktop\trabalho 2\matri_esp\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"matriz_esparsa.h"
+	"matriz.h"
+
+1498881076 c:\users\fabio\desktop\trabalho 2\matri_esp\matriz_esparsa.h
+
+1498879940 c:\users\fabio\desktop\trabalho 2\matri_esp\matriz.h
+	"matriz_esparsa.h"
+
+1498879853 source:c:\users\fabio\desktop\trabalho 2\matri_esp\matriz.c
+	<stdio.h>
+	<stdlib.h>
+	"matriz.h"
+	"matriz_esparsa.h"
+
+1498883028 source:c:\users\fabio\desktop\trabalho 2\matri_esp\matriz_esparsa.c
+	<stdio.h>
+	<stdlib.h>
+	"matriz_esparsa.h"
+
+1498875627 source:c:\users\fabio\desktop\punk\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"matriz_esparsa.h"
+	"matriz.h"
+
+1499050031 c:\users\fabio\desktop\punk\matriz_esparsa.h
+
+1498879940 c:\users\fabio\desktop\punk\matriz.h
+	"matriz_esparsa.h"
+
+1499049742 source:c:\users\fabio\desktop\punk\matriz.c
+	<stdio.h>
+	<stdlib.h>
+	"matriz.h"
+	"matriz_esparsa.h"
+
+1499049645 source:c:\users\fabio\desktop\punk\matriz_esparsa.c
+	<stdio.h>
+	<stdlib.h>
+	"matriz_esparsa.h"
+
+1498875627 source:c:\users\fabio\onedrive\documentos\ufop\aplicações\c\matriz esparsa\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"matriz_esparsa.h"
+	"matriz.h"
+
+1499050211 c:\users\fabio\onedrive\documentos\ufop\aplicações\c\matriz esparsa\matriz_esparsa.h
+
+1498879940 c:\users\fabio\onedrive\documentos\ufop\aplicações\c\matriz esparsa\matriz.h
+	"matriz_esparsa.h"
+
+1499049742 source:c:\users\fabio\onedrive\documentos\ufop\aplicações\c\matriz esparsa\matriz.c
+	<stdio.h>
+	<stdlib.h>
+	"matriz.h"
+	"matriz_esparsa.h"
+
+1499050116 source:c:\users\fabio\onedrive\documentos\ufop\aplicações\c\matriz esparsa\matriz_esparsa.c
+	<stdio.h>
+	<stdlib.h>
+	"matriz_esparsa.h"
+
